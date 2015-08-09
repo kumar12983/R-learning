@@ -1,5 +1,6 @@
 # R-learning
 Learning R programming in Coursera
-myCode.r
+first <- function()
+{ x = 5;}
 second <- function(x)
 { x = x + 3;}
